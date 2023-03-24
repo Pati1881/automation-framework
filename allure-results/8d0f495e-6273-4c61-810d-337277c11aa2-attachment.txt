@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//ul[@id='main_menu_top']//span[text()='Cart']"
+}

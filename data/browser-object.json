@@ -1,0 +1,26 @@
+{
+  "sessionId": "4842c4a77849c4f297fd436c38b7397b",
+  "capabilities": {
+    "acceptInsecureCerts": true,
+    "browserName": "chrome",
+    "browserVersion": "111.0.5563.64",
+    "chrome": {
+      "chromedriverVersion": "111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995})",
+      "userDataDir": "C:\\Users\\pmalik\\AppData\\Local\\Temp\\scoped_dir18288_605343580"
+    },
+    "goog:chromeOptions": { "debuggerAddress": "localhost:54008" },
+    "networkConnectionEnabled": false,
+    "pageLoadStrategy": "normal",
+    "platformName": "windows",
+    "proxy": {},
+    "setWindowRect": true,
+    "strictFileInteractability": false,
+    "timeouts": { "implicit": 0, "pageLoad": 300000, "script": 30000 },
+    "unhandledPromptBehavior": "dismiss and notify",
+    "webauthn:extension:credBlob": true,
+    "webauthn:extension:largeBlob": true,
+    "webauthn:extension:minPinLength": true,
+    "webauthn:extension:prf": true,
+    "webauthn:virtualAuthenticators": true
+  }
+}
