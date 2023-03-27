@@ -1,1 +1,1 @@
-[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":8,"buildName":"automation-framework #8","buildUrl":"http://localhost:8080/job/automation-framework/8/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/automation-framework/8/allure"}]
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":10,"buildName":"automation-framework #10","buildUrl":"http://localhost:8080/job/automation-framework/10/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/automation-framework/10/allure"}]
