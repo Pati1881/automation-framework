@@ -53,7 +53,7 @@ class SkinCarePage extends BasePage {
 
     //extract cart total
     var cartTotal = await CartPage.getCartTotal();
-    expect(itemsTotal).toEqual(1000);
+    expect(itemsTotal).toEqual(cartTotal);
   }
 }
 export default new SkinCarePage();
